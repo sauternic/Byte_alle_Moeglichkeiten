@@ -1,0 +1,501 @@
+ANSI:	Bin: 00000000    Hex: 0     Dez: 0
+ANSI: 	Bin: 00000001    Hex: 1     Dez: 1
+ANSI: 	Bin: 00000010    Hex: 2     Dez: 2
+ANSI: 	Bin: 00000011    Hex: 3     Dez: 3
+ANSI: 	Bin: 00000100    Hex: 4     Dez: 4
+ANSI: 	Bin: 00000101    Hex: 5     Dez: 5
+ANSI: 	Bin: 00000110    Hex: 6     Dez: 6		
+ANSI: 	Bin: 00000111    Hex: 7     Dez: 7		
+ANSI: 	Bin: 00001000    Hex: 8     Dez: 8		
+ANSI: 	Bin: 00001001    Hex: 9     Dez: 9		
+ANSI: 	Bin: 00001010    Hex: A     Dez: 10		
+ANSI: 	Bin: 00001011    Hex: B     Dez: 11		
+ANSI: 	Bin: 00001100    Hex: C     Dez: 12		
+ANSI: 	Bin: 00001101    Hex: D     Dez: 13		
+ANSI: 	Bin: 00001110    Hex: E     Dez: 14		
+ANSI: 	Bin: 00001111    Hex: F     Dez: 15		
+ANSI: 	Bin: 00010000    Hex: 10    Dez: 16		
+ANSI: 	Bin: 00010001    Hex: 11    Dez: 17		
+ANSI: 	Bin: 00010010    Hex: 12    Dez: 18		
+ANSI: 	Bin: 00010011    Hex: 13    Dez: 19		
+ANSI: 	Bin: 00010100    Hex: 14    Dez: 20		
+ANSI: 	Bin: 00010101    Hex: 15    Dez: 21		
+ANSI: 	Bin: 00010110    Hex: 16    Dez: 22		
+ANSI: 	Bin: 00010111    Hex: 17    Dez: 23		
+ANSI: 	Bin: 00011000    Hex: 18    Dez: 24		
+ANSI: 	Bin: 00011001    Hex: 19    Dez: 25		
+ANSI: 	Bin: 00011010    Hex: 1A    Dez: 26		
+ANSI: 	Bin: 00011011    Hex: 1B    Dez: 27		
+ANSI: 	Bin: 00011100    Hex: 1C    Dez: 28		
+ANSI: 	Bin: 00011101    Hex: 1D    Dez: 29		
+ANSI: 	Bin: 00011110    Hex: 1E    Dez: 30		
+ANSI: 	Bin: 00011111    Hex: 1F    Dez: 31		
+ANSI:  	Bin: 00100000    Hex: 20    Dez: 32		
+ANSI: !	Bin: 00100001    Hex: 21    Dez: 33		
+ANSI: "	Bin: 00100010    Hex: 22    Dez: 34		
+ANSI: #	Bin: 00100011    Hex: 23    Dez: 35		
+ANSI: $	Bin: 00100100    Hex: 24    Dez: 36		
+ANSI: %	Bin: 00100101    Hex: 25    Dez: 37		
+ANSI: &	Bin: 00100110    Hex: 26    Dez: 38		
+ANSI: '	Bin: 00100111    Hex: 27    Dez: 39		
+ANSI: (	Bin: 00101000    Hex: 28    Dez: 40		
+ANSI: )	Bin: 00101001    Hex: 29    Dez: 41		
+ANSI: *	Bin: 00101010    Hex: 2A    Dez: 42		
+ANSI: +	Bin: 00101011    Hex: 2B    Dez: 43		
+ANSI: ,	Bin: 00101100    Hex: 2C    Dez: 44		
+ANSI: -	Bin: 00101101    Hex: 2D    Dez: 45		
+ANSI: .	Bin: 00101110    Hex: 2E    Dez: 46		
+ANSI: /	Bin: 00101111    Hex: 2F    Dez: 47		
+ANSI: 0	Bin: 00110000    Hex: 30    Dez: 48		
+ANSI: 1	Bin: 00110001    Hex: 31    Dez: 49		
+ANSI: 2	Bin: 00110010    Hex: 32    Dez: 50		
+ANSI: 3	Bin: 00110011    Hex: 33    Dez: 51		
+ANSI: 4	Bin: 00110100    Hex: 34    Dez: 52		
+ANSI: 5	Bin: 00110101    Hex: 35    Dez: 53		
+ANSI: 6	Bin: 00110110    Hex: 36    Dez: 54		
+ANSI: 7	Bin: 00110111    Hex: 37    Dez: 55		
+ANSI: 8	Bin: 00111000    Hex: 38    Dez: 56		
+ANSI: 9	Bin: 00111001    Hex: 39    Dez: 57		
+ANSI: :	Bin: 00111010    Hex: 3A    Dez: 58		
+ANSI: ;	Bin: 00111011    Hex: 3B    Dez: 59		
+ANSI: <	Bin: 00111100    Hex: 3C    Dez: 60		
+ANSI: =	Bin: 00111101    Hex: 3D    Dez: 61		
+ANSI: >	Bin: 00111110    Hex: 3E    Dez: 62		
+ANSI: ?	Bin: 00111111    Hex: 3F    Dez: 63		
+ANSI: @	Bin: 01000000    Hex: 40    Dez: 64		
+ANSI: A	Bin: 01000001    Hex: 41    Dez: 65		
+ANSI: B	Bin: 01000010    Hex: 42    Dez: 66		
+ANSI: C	Bin: 01000011    Hex: 43    Dez: 67		
+ANSI: D	Bin: 01000100    Hex: 44    Dez: 68		
+ANSI: E	Bin: 01000101    Hex: 45    Dez: 69		
+ANSI: F	Bin: 01000110    Hex: 46    Dez: 70		
+ANSI: G	Bin: 01000111    Hex: 47    Dez: 71		
+ANSI: H	Bin: 01001000    Hex: 48    Dez: 72		
+ANSI: I	Bin: 01001001    Hex: 49    Dez: 73		
+ANSI: J	Bin: 01001010    Hex: 4A    Dez: 74		
+ANSI: K	Bin: 01001011    Hex: 4B    Dez: 75		
+ANSI: L	Bin: 01001100    Hex: 4C    Dez: 76		
+ANSI: M	Bin: 01001101    Hex: 4D    Dez: 77		
+ANSI: N	Bin: 01001110    Hex: 4E    Dez: 78		
+ANSI: O	Bin: 01001111    Hex: 4F    Dez: 79		
+ANSI: P	Bin: 01010000    Hex: 50    Dez: 80		
+ANSI: Q	Bin: 01010001    Hex: 51    Dez: 81		
+ANSI: R	Bin: 01010010    Hex: 52    Dez: 82		
+ANSI: S	Bin: 01010011    Hex: 53    Dez: 83		
+ANSI: T	Bin: 01010100    Hex: 54    Dez: 84		
+ANSI: U	Bin: 01010101    Hex: 55    Dez: 85		
+ANSI: V	Bin: 01010110    Hex: 56    Dez: 86		
+ANSI: W	Bin: 01010111    Hex: 57    Dez: 87		
+ANSI: X	Bin: 01011000    Hex: 58    Dez: 88		
+ANSI: Y	Bin: 01011001    Hex: 59    Dez: 89		
+ANSI: Z	Bin: 01011010    Hex: 5A    Dez: 90		
+ANSI: [	Bin: 01011011    Hex: 5B    Dez: 91		
+ANSI: \	Bin: 01011100    Hex: 5C    Dez: 92		
+ANSI: ]	Bin: 01011101    Hex: 5D    Dez: 93		
+ANSI: ^	Bin: 01011110    Hex: 5E    Dez: 94		
+ANSI: _	Bin: 01011111    Hex: 5F    Dez: 95		
+ANSI: `	Bin: 01100000    Hex: 60    Dez: 96		
+ANSI: a	Bin: 01100001    Hex: 61    Dez: 97		
+ANSI: b	Bin: 01100010    Hex: 62    Dez: 98		
+ANSI: c	Bin: 01100011    Hex: 63    Dez: 99		
+ANSI: d	Bin: 01100100    Hex: 64    Dez: 100		
+ANSI: e	Bin: 01100101    Hex: 65    Dez: 101		
+ANSI: f	Bin: 01100110    Hex: 66    Dez: 102		
+ANSI: g	Bin: 01100111    Hex: 67    Dez: 103		
+ANSI: h	Bin: 01101000    Hex: 68    Dez: 104		
+ANSI: i	Bin: 01101001    Hex: 69    Dez: 105		
+ANSI: j	Bin: 01101010    Hex: 6A    Dez: 106		
+ANSI: k	Bin: 01101011    Hex: 6B    Dez: 107		
+ANSI: l	Bin: 01101100    Hex: 6C    Dez: 108		
+ANSI: m	Bin: 01101101    Hex: 6D    Dez: 109		
+ANSI: n	Bin: 01101110    Hex: 6E    Dez: 110		
+ANSI: o	Bin: 01101111    Hex: 6F    Dez: 111		
+ANSI: p	Bin: 01110000    Hex: 70    Dez: 112		
+ANSI: q	Bin: 01110001    Hex: 71    Dez: 113		
+ANSI: r	Bin: 01110010    Hex: 72    Dez: 114		
+ANSI: s	Bin: 01110011    Hex: 73    Dez: 115		
+ANSI: t	Bin: 01110100    Hex: 74    Dez: 116		
+ANSI: u	Bin: 01110101    Hex: 75    Dez: 117		
+ANSI: v	Bin: 01110110    Hex: 76    Dez: 118		
+ANSI: w	Bin: 01110111    Hex: 77    Dez: 119		
+ANSI: x	Bin: 01111000    Hex: 78    Dez: 120		
+ANSI: y	Bin: 01111001    Hex: 79    Dez: 121		
+ANSI: z	Bin: 01111010    Hex: 7A    Dez: 122		
+ANSI: {	Bin: 01111011    Hex: 7B    Dez: 123		
+ANSI: |	Bin: 01111100    Hex: 7C    Dez: 124		
+ANSI: }	Bin: 01111101    Hex: 7D    Dez: 125		
+ANSI: ~	Bin: 01111110    Hex: 7E    Dez: 126		
+ANSI: 	Bin: 01111111    Hex: 7F    Dez: 127		
+ANSI: €	Bin: 10000000    Hex: 80    Dez: 128		
+ANSI: �	Bin: 10000001    Hex: 81    Dez: 129		
+ANSI: ‚	Bin: 10000010    Hex: 82    Dez: 130		
+ANSI: ƒ	Bin: 10000011    Hex: 83    Dez: 131		
+ANSI: „	Bin: 10000100    Hex: 84    Dez: 132		
+ANSI: …	Bin: 10000101    Hex: 85    Dez: 133		
+ANSI: †	Bin: 10000110    Hex: 86    Dez: 134		
+ANSI: ‡	Bin: 10000111    Hex: 87    Dez: 135		
+ANSI: ˆ	Bin: 10001000    Hex: 88    Dez: 136		
+ANSI: ‰	Bin: 10001001    Hex: 89    Dez: 137		
+ANSI: Š	Bin: 10001010    Hex: 8A    Dez: 138		
+ANSI: ‹	Bin: 10001011    Hex: 8B    Dez: 139		
+ANSI: Œ	Bin: 10001100    Hex: 8C    Dez: 140		
+ANSI: �	Bin: 10001101    Hex: 8D    Dez: 141		
+ANSI: Ž	Bin: 10001110    Hex: 8E    Dez: 142		
+ANSI: �	Bin: 10001111    Hex: 8F    Dez: 143		
+ANSI: �	Bin: 10010000    Hex: 90    Dez: 144		
+ANSI: ‘	Bin: 10010001    Hex: 91    Dez: 145		
+ANSI: ’	Bin: 10010010    Hex: 92    Dez: 146		
+ANSI: “	Bin: 10010011    Hex: 93    Dez: 147		
+ANSI: ”	Bin: 10010100    Hex: 94    Dez: 148		
+ANSI: •	Bin: 10010101    Hex: 95    Dez: 149		
+ANSI: –	Bin: 10010110    Hex: 96    Dez: 150		
+ANSI: —	Bin: 10010111    Hex: 97    Dez: 151		
+ANSI: ˜	Bin: 10011000    Hex: 98    Dez: 152		
+ANSI: ™	Bin: 10011001    Hex: 99    Dez: 153		
+ANSI: š	Bin: 10011010    Hex: 9A    Dez: 154		
+ANSI: ›	Bin: 10011011    Hex: 9B    Dez: 155		
+ANSI: œ	Bin: 10011100    Hex: 9C    Dez: 156		
+ANSI: �	Bin: 10011101    Hex: 9D    Dez: 157		
+ANSI: ž	Bin: 10011110    Hex: 9E    Dez: 158		
+ANSI: Ÿ	Bin: 10011111    Hex: 9F    Dez: 159		
+ANSI:  	Bin: 10100000    Hex: A0    Dez: 160		
+ANSI: ¡	Bin: 10100001    Hex: A1    Dez: 161		
+ANSI: ¢	Bin: 10100010    Hex: A2    Dez: 162		
+ANSI: £	Bin: 10100011    Hex: A3    Dez: 163		
+ANSI: ¤	Bin: 10100100    Hex: A4    Dez: 164		
+ANSI: ¥	Bin: 10100101    Hex: A5    Dez: 165		
+ANSI: ¦	Bin: 10100110    Hex: A6    Dez: 166		
+ANSI: §	Bin: 10100111    Hex: A7    Dez: 167		
+ANSI: ¨	Bin: 10101000    Hex: A8    Dez: 168		
+ANSI: ©	Bin: 10101001    Hex: A9    Dez: 169		
+ANSI: ª	Bin: 10101010    Hex: AA    Dez: 170		
+ANSI: «	Bin: 10101011    Hex: AB    Dez: 171		
+ANSI: ¬	Bin: 10101100    Hex: AC    Dez: 172		
+ANSI: ­	Bin: 10101101    Hex: AD    Dez: 173		
+ANSI: ®	Bin: 10101110    Hex: AE    Dez: 174		
+ANSI: ¯	Bin: 10101111    Hex: AF    Dez: 175		
+ANSI: °	Bin: 10110000    Hex: B0    Dez: 176		
+ANSI: ±	Bin: 10110001    Hex: B1    Dez: 177		
+ANSI: ²	Bin: 10110010    Hex: B2    Dez: 178		
+ANSI: ³	Bin: 10110011    Hex: B3    Dez: 179		
+ANSI: ´	Bin: 10110100    Hex: B4    Dez: 180		
+ANSI: µ	Bin: 10110101    Hex: B5    Dez: 181		
+ANSI: ¶	Bin: 10110110    Hex: B6    Dez: 182		
+ANSI: ·	Bin: 10110111    Hex: B7    Dez: 183		
+ANSI: ¸	Bin: 10111000    Hex: B8    Dez: 184		
+ANSI: ¹	Bin: 10111001    Hex: B9    Dez: 185		
+ANSI: º	Bin: 10111010    Hex: BA    Dez: 186		
+ANSI: »	Bin: 10111011    Hex: BB    Dez: 187		
+ANSI: ¼	Bin: 10111100    Hex: BC    Dez: 188		
+ANSI: ½	Bin: 10111101    Hex: BD    Dez: 189		
+ANSI: ¾	Bin: 10111110    Hex: BE    Dez: 190		
+ANSI: ¿	Bin: 10111111    Hex: BF    Dez: 191		
+ANSI: À	Bin: 11000000    Hex: C0    Dez: 192		
+ANSI: Á	Bin: 11000001    Hex: C1    Dez: 193		
+ANSI: Â	Bin: 11000010    Hex: C2    Dez: 194		
+ANSI: Ã	Bin: 11000011    Hex: C3    Dez: 195		
+ANSI: Ä	Bin: 11000100    Hex: C4    Dez: 196		
+ANSI: Å	Bin: 11000101    Hex: C5    Dez: 197		
+ANSI: Æ	Bin: 11000110    Hex: C6    Dez: 198		
+ANSI: Ç	Bin: 11000111    Hex: C7    Dez: 199		
+ANSI: È	Bin: 11001000    Hex: C8    Dez: 200		
+ANSI: É	Bin: 11001001    Hex: C9    Dez: 201		
+ANSI: Ê	Bin: 11001010    Hex: CA    Dez: 202		
+ANSI: Ë	Bin: 11001011    Hex: CB    Dez: 203		
+ANSI: Ì	Bin: 11001100    Hex: CC    Dez: 204		
+ANSI: Í	Bin: 11001101    Hex: CD    Dez: 205		
+ANSI: Î	Bin: 11001110    Hex: CE    Dez: 206		
+ANSI: Ï	Bin: 11001111    Hex: CF    Dez: 207		
+ANSI: Ð	Bin: 11010000    Hex: D0    Dez: 208		
+ANSI: Ñ	Bin: 11010001    Hex: D1    Dez: 209		
+ANSI: Ò	Bin: 11010010    Hex: D2    Dez: 210		
+ANSI: Ó	Bin: 11010011    Hex: D3    Dez: 211		
+ANSI: Ô	Bin: 11010100    Hex: D4    Dez: 212		
+ANSI: Õ	Bin: 11010101    Hex: D5    Dez: 213		
+ANSI: Ö	Bin: 11010110    Hex: D6    Dez: 214		
+ANSI: ×	Bin: 11010111    Hex: D7    Dez: 215		
+ANSI: Ø	Bin: 11011000    Hex: D8    Dez: 216		
+ANSI: Ù	Bin: 11011001    Hex: D9    Dez: 217		
+ANSI: Ú	Bin: 11011010    Hex: DA    Dez: 218		
+ANSI: Û	Bin: 11011011    Hex: DB    Dez: 219		
+ANSI: Ü	Bin: 11011100    Hex: DC    Dez: 220		
+ANSI: Ý	Bin: 11011101    Hex: DD    Dez: 221		
+ANSI: Þ	Bin: 11011110    Hex: DE    Dez: 222		
+ANSI: ß	Bin: 11011111    Hex: DF    Dez: 223		
+ANSI: à	Bin: 11100000    Hex: E0    Dez: 224		
+ANSI: á	Bin: 11100001    Hex: E1    Dez: 225		
+ANSI: â	Bin: 11100010    Hex: E2    Dez: 226		
+ANSI: ã	Bin: 11100011    Hex: E3    Dez: 227		
+ANSI: ä	Bin: 11100100    Hex: E4    Dez: 228		
+ANSI: å	Bin: 11100101    Hex: E5    Dez: 229		
+ANSI: æ	Bin: 11100110    Hex: E6    Dez: 230		
+ANSI: ç	Bin: 11100111    Hex: E7    Dez: 231		
+ANSI: è	Bin: 11101000    Hex: E8    Dez: 232		
+ANSI: é	Bin: 11101001    Hex: E9    Dez: 233		
+ANSI: ê	Bin: 11101010    Hex: EA    Dez: 234		
+ANSI: ë	Bin: 11101011    Hex: EB    Dez: 235		
+ANSI: ì	Bin: 11101100    Hex: EC    Dez: 236		
+ANSI: í	Bin: 11101101    Hex: ED    Dez: 237		
+ANSI: î	Bin: 11101110    Hex: EE    Dez: 238		
+ANSI: ï	Bin: 11101111    Hex: EF    Dez: 239		
+ANSI: ð	Bin: 11110000    Hex: F0    Dez: 240		
+ANSI: ñ	Bin: 11110001    Hex: F1    Dez: 241		
+ANSI: ò	Bin: 11110010    Hex: F2    Dez: 242		
+ANSI: ó	Bin: 11110011    Hex: F3    Dez: 243		
+ANSI: ô	Bin: 11110100    Hex: F4    Dez: 244		
+ANSI: õ	Bin: 11110101    Hex: F5    Dez: 245		
+ANSI: ö	Bin: 11110110    Hex: F6    Dez: 246		
+ANSI: ÷	Bin: 11110111    Hex: F7    Dez: 247		
+ANSI: ø	Bin: 11111000    Hex: F8    Dez: 248		
+ANSI: ù	Bin: 11111001    Hex: F9    Dez: 249		
+ANSI: ú	Bin: 11111010    Hex: FA    Dez: 250		
+ANSI: û	Bin: 11111011    Hex: FB    Dez: 251		
+ANSI: ü	Bin: 11111100    Hex: FC    Dez: 252		
+ANSI: ý	Bin: 11111101    Hex: FD    Dez: 253		
+ANSI: þ	Bin: 11111110    Hex: FE    Dez: 254		
+ANSI: ÿ	Bin: 11111111    Hex: FF    Dez: 255		
+
+
+ASCI
+DEZ	HEX	Zeichen
+0	00	NUL
+1	01	SOH
+2	02	STX
+3	03	ETX
+4	04	EOT
+5	05	ENQ
+6	06	ACK
+7	07	BEL
+8	08	BS
+9	09	TAB
+10	0A	LF
+11	0B	VT
+12	0C	FF
+13	0D	CR
+14	0E	SO
+15	0F	SI
+16	10	DLE
+17	11	DC1
+18	12	DC2
+19	13	DC3
+20	14	DC4
+21	15	NAK
+22	16	SYN
+23	17	ETB
+24	18	CAN
+25	19	EM
+26	1A	SUB
+27	1B	ESC
+28	1C	FS
+29	1D	GS
+30	1E	RS
+31	1F	US
+32	20	Space
+33	21	!
+34	22	"
+35	23	#
+36	24	$
+37	25	%
+38	26	&
+39	27	'
+40	28	(
+41	29	)
+42	2A	*
+43	2B	+
+44	2C	,
+45	2D	-
+46	2E	.
+47	2F	/
+48	30	0
+49	31	1
+50	32	2
+51	33	3
+52	34	4
+53	35	5
+54	36	6
+55	37	7
+56	38	8
+57	39	9
+58	3A	:
+59	3B	;
+60	3C	<
+61	3D	=
+62	3E	>
+63	3F	?
+64	40	@
+65	41	A
+66	42	B
+67	43	C
+68	44	D
+69	45	E
+70	46	F
+71	47	G
+72	48	H
+73	49	I
+74	4A	J
+75	4B	K
+76	4C	L
+77	4D	M
+78	4E	N
+79	4F	O
+80	50	P
+81	51	Q
+82	52	R
+83	53	S
+84	54	T
+85	55	U
+86	56	V
+87	57	W
+88	58	X
+89	59	Y
+90	5A	Z
+91	5B	[
+92	5C	\
+93	5D	]
+94	5E	^
+95	5F	_
+96	60	`
+97	61	a
+98	62	b
+99	63	c
+100	64	d
+101	65	e
+102	66	f
+103	67	g
+104	68	h
+105	69	i
+106	6A	j
+107	6B	k
+108	6C	l
+109	6D	m
+110	6E	n
+111	6F	o
+112	70	p
+113	71	q
+114	72	r
+115	73	s
+116	74	t
+117	75	u
+118	76	v
+119	77	w
+120	78	x
+121	79	y
+122	7A	z
+123	7B	{
+124	7C	|
+125	7D	}
+126	7E	~
+127	7F	DEL	
+
+	
+Byte Order Mark (BOM)
+
+Die Byte Order Mark ist ein Unicode Zeichen, dass die Byte-Reihenfolge
+ (Endianness) einer Unicode-Datei oder eines Unicode-Streams anzeigt.
+ Dieses Zeichen hat die Unicode Position U+FEFF und kann auch dazu verwendet
+ werden, die Kodierung einer Textdatei zu bestimmen. Das Zeichen steht immer
+ an erster Stelle in der Datei und wird von der Software, die das entsprechende
+ Format unterstützt, nicht als Bestandteil des Textes interpretiert. Ein Vorteil
+ dieser Handhabung ist, dass keine weiteren Informationen zu der Datei mitgeliefert
+ werden müssen und sich der Interpretations-Schlüssel damit direkt in der Datei befindet.
+
+Je nachdem, in welcher Kodierung eine Datei abgespeichert wird, ergeben sich
+ unterschiedliche Byte-Folgen für das Zeichen U+FEFF. Die Bytefolgen für
+ die gängisten Kodierungen sind in dieser Tabelle zusammen gefasst:
+
+Kodierung	Byte Order Mark
+
+ANSI  	Keine BOM
+UTF-7 	2B 2F 76 ( 38 | 39 | 2B | 2F )
+UTF-8 	EF BB BF
+UTF-16	Big Endian	FE FF
+UTF-16	Little Endian	FF FE
+UTF-32	Big Endian	00 00 FE FF
+UTF-32	Little Endian	FF FE 00 00
+
+Zwingend erforderlich, um eine entsprechende Datei eindeutig
+ lesen zu können, ist die Byte Order Mark in den Kodierungen
+ UTF-16 und UTF-32, da in diesen Kodierungen ein Zeichen
+ mehrere Bytes belegt und die Byte Order Mark anzeigt,
+ in welcher Reihenfolge die Bytes zu interpretieren sind
+ (siehe zur Byte Reihenfolge Big Endian und Little Endian).
+ Bei den Kodierungen UTF-8 und UTF-7 dagegen ist die BOM nicht
+ zwingend erforderlich, führt aber dennoch zu eindeutigeren
+ Ergebnissen, da viele Programme entsprechende Texte ansonsten
+ als ANSI interpretieren würden.
+
+Dass durch die BOM die Reihenfolge gekennzeichnet wird
+, lässt sich leicht beim Vergleich der Bytefolgen zwischen
+ Big Endian (Beginn bei höchstwertigem Bit) und Little
+ Endian (Beginn bei niederwertigstem Bit) erkennen,
+ da diese beiden Kodierungen eine gegenläufige Byte
+ Reihenfolge haben. Einmal ist die Byte Reihenfolge
+ FE FF und einmal mit FF FE genau anders herum.
+ Da bei UTF-32 generell vier Bytes pro Zeichen verwendet werden,
+ ist ebenfalls ersichtlich, wieso die Kodierungen hier bei
+ 00 00 FE FF und FF FE 00 00 liegen.
+
+Zu Problemen und falschen Darstellung unter Verwendung
+ der Byte Order Mark kann es kommen, wenn Programme
+ die BOM nicht interpretieren können und stattdessen
+ ANSI Zeichen anzeigen, zum Beispiel ï»¿ für die 
+ BOM von UTF-8 (EF BB BF). Hier gibt es eine kleine Problematik,
+ da auch in ANSI Dateien die Byte Sequenz EF BB BF erlaubt
+ ist und die entsprechende Datei dann fälschlicherweise,
+ sofern diese Sequenz am Anfang steht, als UTF-8
+ interpretiert werden könnte. Mit Software wie dem
+ TextKonverter können Sie problemlos sowohl Dateien
+ mit als auch ohne Byte Order Marke einlesen und schreiben.
+ Außerdem ist es mit diesem Programm möglich das Format
+ einer Datei zu ändern oder eine Byte Order Mark hinzuzufügen
+ oder zu entfernen.
+
+Kommt das Zeichen U+FEFF an einer anderen Stelle als an
+ der ersten Position in einer Datei vor, so ist es als
+ ein Zeichen mit einer Breite von 0 und keinem Umbruch
+ zu werten. Allerdings ist die absichtliche Verwendung
+ dieses Zeichens für diesen Zweck veraltet, da das Zeichen
+ nun nur noch als Byte Order Mark verwendet werden sollte.
+ Stattdessen sollte nun das Zeichen U+2060
+ für diesen Zweck verwendet werden.
+
+
+
+
+
+Endianness (Byte Reihenfolge)
+
+Mit der Byte-Reihenfolge (in Englisch Endianness,
+ Byte Order) wird die Speicherorganisation in der
+ Computertechnologie bezeichnet. Immer dann wenn
+ zur Kordierung der zu speichernden Zahl mehr Bits
+ erforderlich sind als in der kleinsten adressierbarem
+ Einheit, ist es nötig anzugeben, in welcher Reihenfolge
+ die Daten gespeichert sind.
+
+In der Regel besteht die kleinste adressierbare Einheit
+ aus acht Bits, also einem Byte. Müssen mehr als ein Byte
+ gespeichert werden, so ergeben sich zwei Möglichkeiten
+ der Speicherung:
+Big Endian
+
+Die eine Möglichkeit ist, beim großen Ende zu beginnen.
+ Ähnlich wie die Darstellung der Uhrzeit mit 
+ Stunde - Minute - Sekunde wird hier das Byte des
+ höchstwertigen Bits zuerst, also an der kleinsten
+ Speicheradresse gespeichert.
+Little Endian
+
+Die andere Möglichkeit ist, beim kleinen Ende zu beginnen.
+ So ähnlich wie beim Schreiben des Datums mit
+ Tag - Monat - Jahr wird hier mit dem Byte des niederwertigsten
+ Bits begonnen. Dieses Byte wird also an die
+ kleinste Speicheradresse geschrieben.
+
+Da bei der Kodierung von Unicode-Text teilweise mehrere
+ Bytes pro Zeichen geschrieben werden müssen, stellt sich
+ hier genau diese Frage der Reihenfolge. Sowohl Big Endian
+ als auch Little Endian ist erlaubt, die entsprechenden
+ Formate sind beispielsweise UTF-16 Big Endian,
+ UTF-16 Little Endian, UTF-32 Big Endian
+ und UTF-32 Little Endian.
